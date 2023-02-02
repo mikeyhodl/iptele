@@ -51,7 +51,7 @@
         "@angular/cdk": "14.0.5",
         "@angular/flex-layout": "14.0.0-beta.40",
         "@angular/material": "14.0.5",
-        "@datorama/akita": "7.1.1",
+        "@datorama/akita": "8.0.0",
         "@electron/remote": "2.0.8",
         "@ngx-pwa/local-storage": "13.0.5",
         "@videojs/http-streaming": "2.13.1",
